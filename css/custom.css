@@ -1,0 +1,9 @@
+/*
+Most of the style changes from the template css were made directly to styles.css.
+At the time of starting this portfolio, I had no web development experience and planned poorly.
+Future styles will be customized inside this document, since this is a single page website.
+ */
+
+header.masthead {
+    height: 100vh;
+}
