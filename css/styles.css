@@ -40,9 +40,9 @@ body {
     width: 100%;
     font-size: 1rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    /*position: absolute;*/
     background: var(--bg-secondary);
     font-weight: 400;
+    scroll-snap-align: start;
 }
 
 .primary {
