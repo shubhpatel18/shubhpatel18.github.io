@@ -95,8 +95,10 @@ body {
 }
 
 .navbar-toggler {
-    color: var(--nav-text) !important;
-    border-color: var(--nav-text) !important;
+    color: var(--primary) !important;
+    border-color: var(--primary) !important;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
 }
 
 .navbar-collapse {
